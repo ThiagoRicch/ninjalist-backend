@@ -1,4 +1,4 @@
-### 🥷 NinjaList API
+# 🥷 NinjaList API
 
 Backend da aplicação NinjaList, um sistema de gerenciamento de tarefas com autenticação JWT, controle de usuários e operações CRUD.
 
@@ -26,8 +26,8 @@ Mockito
 
 MockMvc
 
-##📌 Funcionalidades
-#🔐 Autenticação
+# 📌 Funcionalidades
+## 🔐 Autenticação
 
 Registro de usuário
 
@@ -45,7 +45,7 @@ Atualizar nome e email
 
 Atualização de foto (quando implementado)
 
-##📋 Tarefas
+## 📋 Tarefas
 
 Criar tarefa
 
@@ -79,7 +79,7 @@ Uso de @AuthenticationPrincipal
 
 Separação clara de responsabilidades
 
-🔑 Autenticação JWT
+## 🔑 Autenticação JWT
 
 Fluxo de autenticação:
 
